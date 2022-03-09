@@ -1,0 +1,15 @@
+.Votes .percentage {
+  height: 20px;
+}
+
+.Votes .chocolate {
+  background-color: brown;
+}
+
+.Votes .vanilla {
+  background-color: beige;
+}
+
+.Votes .strawberry {
+  background-color: pink;
+}

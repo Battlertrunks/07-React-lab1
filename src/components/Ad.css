@@ -1,0 +1,10 @@
+.Ad {
+  border: 1px solid #000;
+  width: fit-content;
+  padding: 20px;
+}
+
+.Ad.darkmode {
+  background-color: #222;
+  color: #fff;
+}
